@@ -1,7 +1,7 @@
 # price_tracker
 
 ## Project Setup
-unzip the folder:
+clone the project:
 
 Navigate to the project directory:
 
